@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "AuthenticationService.API.Controllers.UserAcountController",
+    "Method": "Login",
+    "RelativePath": "api/UserAcount",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "authenticationRequestDto",
+        "Type": "AuthenticationService.DTOs.AuthenticationRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AuthenticationService.DTOs.AuthenticationResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

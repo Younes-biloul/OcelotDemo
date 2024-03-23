@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\bin\Debug\net8.0\AuthenticationService.deps.json
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\bin\Debug\net8.0\AuthenticationService.dll
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\bin\Debug\net8.0\AuthenticationService.pdb
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.dll
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\refint\AuthenticationService.dll
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\AuthenticationService.pdb
+C:\Users\Lenovo\source\repos\OselotDemo\AuthenticationService\obj\Debug\net8.0\ref\AuthenticationService.dll

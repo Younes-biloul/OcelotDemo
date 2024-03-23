@@ -1,0 +1,82 @@
+{
+  "Routes": [
+    
+    //Authentication Service
+    {
+      "DownstreamPathTemplate": "/api/UserAcount",
+      "UpstreamHttpMethod": [ "Post" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7003
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/authenticate"
+    },
+    //order Service
+    {
+      "DownstreamPathTemplate": "/api/Order",
+      "UpstreamHttpMethod": [ "Post", "Get", "Delete" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7001
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/order",
+      "FileCacheOptions": {
+        "TtlSeconds": 20,
+        "Region": "europe-central",
+        "Header": "Authorization"
+      },
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScops": []
+
+      },
+      "RouteClaimsRequirment": {
+        "Role": "abc"
+      }
+    },
+    //Product Service
+    {
+      "DownstreamPathTemplate": "/api/Product",
+      "UpstreamHttpMethod": [ "Post", "Get", "Delete","Put" ],
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7002
+        }
+      ],
+      "UpstreamPathTemplate": "/ocelot/product",
+      "AuthenticationOptions": {
+        "AuthenticationProviderKey": "Bearer",
+        "AllowedScops": []
+
+      },
+      "RouteClaimsRequirment": {
+        "Role": "admin" //
+      },
+      "RateLimitOptions": {
+        "ClientWiteList": [],
+        "EnableRateLimiting": true,
+        "Period": "60s",
+        "PeriodTimespan": 60,
+        "Limit": 1
+      }
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7000",
+    //"RateLimitOptions": {
+    //  "QuotaExceededMessage": "Reaquest Not Allowed for the Moment",
+    //  "HttpStatusCode": 999
+    //}
+
+  }
+  
+  
+}

@@ -1,0 +1,16 @@
+@OselotDemo.OcelotApi_HostAddress = https://localhost:7000
+
+GET {{OselotDemo.OcelotApi_HostAddress}}/ocelot/WeatherForecast
+Accept: application/json
+
+###
+POST {{OselotDemo.OcelotApi_HostAddress}}/ocelot/authenticate
+Accept:application/json
+Content-Type: application/json
+
+{
+   "userName": "admin",
+  "password": "password"
+}
+
+

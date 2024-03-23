@@ -1,0 +1,269 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.ocelotapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|solutionrelative:oselotdemo.ocelotapi\\ocelot.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice.api\\controllers\\useracountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|solutionrelative:authenticationservice.api\\controllers\\useracountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\jwttokenhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.ocelotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|solutionrelative:oselotdemo.ocelotapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice\\jwttokendependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\jwttokendependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.ocelotapi\\oselotdemo.ocelotapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}|OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj|solutionrelative:oselotdemo.ocelotapi\\oselotdemo.ocelotapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41D22CD-445A-4520-BAA3-50257757FEC2}|OselotDemo.OrderWebApi\\OselotDemo.OrderWebApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.orderwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41D22CD-445A-4520-BAA3-50257757FEC2}|OselotDemo.OrderWebApi\\OselotDemo.OrderWebApi.csproj|solutionrelative:oselotdemo.orderwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E41D22CD-445A-4520-BAA3-50257757FEC2}|OselotDemo.OrderWebApi\\OselotDemo.OrderWebApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E41D22CD-445A-4520-BAA3-50257757FEC2}|OselotDemo.OrderWebApi\\OselotDemo.OrderWebApi.csproj|solutionrelative:oselotdemo.orderwebapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice.api\\authenticationservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|solutionrelative:authenticationservice.api\\authenticationservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\authenticationservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}|OselotDemo.ProductWebApi\\OselotDemo.ProductWebApi.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\oselotdemo.productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}|OselotDemo.ProductWebApi\\OselotDemo.ProductWebApi.csproj|solutionrelative:oselotdemo.productwebapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|solutionrelative:authenticationservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice.api\\authenticationservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}|AuthenticationService.API\\AuthenticationService.API.csproj|solutionrelative:authenticationservice.api\\authenticationservice.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice\\models\\useracount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\models\\useracount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|c:\\users\\lenovo\\source\\repos\\oselotdemo\\authenticationservice\\dtos\\authenticationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}|AuthenticationService\\AuthenticationService.csproj|solutionrelative:authenticationservice\\dtos\\authenticationrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ocelot.json",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\ocelot.json",
+              "RelativeDocumentMoniker": "OselotDemo.OcelotApi\\ocelot.json",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\ocelot.json",
+              "RelativeToolTip": "OselotDemo.OcelotApi\\ocelot.json",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAADoEwAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-21T09:51:44.258Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OselotDemo.OcelotApi",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj",
+              "RelativeDocumentMoniker": "OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj",
+              "RelativeToolTip": "OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-22T10:44:15.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\Program.cs",
+              "RelativeDocumentMoniker": "OselotDemo.OcelotApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OcelotApi\\Program.cs",
+              "RelativeToolTip": "OselotDemo.OcelotApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:48:20.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtTokenDependencyInjection.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\JwtTokenDependencyInjection.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\JwtTokenDependencyInjection.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\JwtTokenDependencyInjection.cs",
+              "RelativeToolTip": "AuthenticationService\\JwtTokenDependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T09:45:46.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtTokenHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\JwtTokenHandler.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\JwtTokenHandler.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\JwtTokenHandler.cs",
+              "RelativeToolTip": "AuthenticationService\\JwtTokenHandler.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:29:32.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAcountController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\Controllers\\UserAcountController.cs",
+              "RelativeDocumentMoniker": "AuthenticationService.API\\Controllers\\UserAcountController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\Controllers\\UserAcountController.cs",
+              "RelativeToolTip": "AuthenticationService.API\\Controllers\\UserAcountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:10:48.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.ProductWebApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "OselotDemo.ProductWebApi\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.ProductWebApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "OselotDemo.ProductWebApi\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:11:57.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthenticationService.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService\\AuthenticationService.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\AuthenticationService.csproj",
+              "RelativeToolTip": "AuthenticationService\\AuthenticationService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T10:28:20.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "OselotDemo.OrderWebApi\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OrderWebApi\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "OselotDemo.OrderWebApi\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:11:32.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\Program.cs",
+              "RelativeDocumentMoniker": "AuthenticationService.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\Program.cs",
+              "RelativeToolTip": "AuthenticationService.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:11:14.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OrderWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OselotDemo.OrderWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\OselotDemo.OrderWebApi\\Program.cs",
+              "RelativeToolTip": "OselotDemo.OrderWebApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:41:48.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthenticationService.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\AuthenticationService.API.csproj",
+              "RelativeDocumentMoniker": "AuthenticationService.API\\AuthenticationService.API.csproj",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\AuthenticationService.API.csproj",
+              "RelativeToolTip": "AuthenticationService.API\\AuthenticationService.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-21T10:28:22.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationService.API.http",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\AuthenticationService.API.http",
+              "RelativeDocumentMoniker": "AuthenticationService.API\\AuthenticationService.API.http",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService.API\\AuthenticationService.API.http",
+              "RelativeToolTip": "AuthenticationService.API\\AuthenticationService.API.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-03-21T10:11:09.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserAcount.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\Models\\UserAcount.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\Models\\UserAcount.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\Models\\UserAcount.cs",
+              "RelativeToolTip": "AuthenticationService\\Models\\UserAcount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:10:03.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthenticationRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\DTOs\\AuthenticationRequestDto.cs",
+              "RelativeDocumentMoniker": "AuthenticationService\\DTOs\\AuthenticationRequestDto.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\source\\repos\\OselotDemo\\AuthenticationService\\DTOs\\AuthenticationRequestDto.cs",
+              "RelativeToolTip": "AuthenticationService\\DTOs\\AuthenticationRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:09:47.983Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

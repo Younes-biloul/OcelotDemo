@@ -1,0 +1,6 @@
+@OselotDemo.OrderWebApi_HostAddress = http://localhost:5197
+
+GET {{OselotDemo.OrderWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

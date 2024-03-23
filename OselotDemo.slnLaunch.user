@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Name": "OselotDemo.OcelotApi\\OselotDemo.OcelotApi.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "AuthenticationService.API\\AuthenticationService.API.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "OselotDemo.ProductWebApi\\OselotDemo.ProductWebApi.csproj",
+        "Action": "Start",
+        "DebugTarget": ""
+      },
+      {
+        "Name": "OselotDemo.OrderWebApi\\OselotDemo.OrderWebApi.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

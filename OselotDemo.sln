@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OselotDemo.OcelotApi", "OselotDemo.OcelotApi\OselotDemo.OcelotApi.csproj", "{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiGateway", "ApiGateway", "{EDEF485B-A367-42B2-8919-593BAD1FA62D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{3600FDC0-65F8-44CA-BD19-662BB89385C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OselotDemo.ProductWebApi", "OselotDemo.ProductWebApi\OselotDemo.ProductWebApi.csproj", "{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OselotDemo.OrderWebApi", "OselotDemo.OrderWebApi\OselotDemo.OrderWebApi.csproj", "{E41D22CD-445A-4520-BAA3-50257757FEC2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AuthService", "AuthService", "{9D0D017F-22D5-4371-BCDA-E3CEF8D2F270}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationService", "AuthenticationService\AuthenticationService.csproj", "{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthenticationService.API", "AuthenticationService.API\AuthenticationService.API.csproj", "{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E41D22CD-445A-4520-BAA3-50257757FEC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E41D22CD-445A-4520-BAA3-50257757FEC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E41D22CD-445A-4520-BAA3-50257757FEC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E41D22CD-445A-4520-BAA3-50257757FEC2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{182F7BEE-8607-43CD-ABA0-B5AFD155E40C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{8EB64A38-7FF9-4780-AD59-7427A3FAB2DD} = {EDEF485B-A367-42B2-8919-593BAD1FA62D}
+		{EDDD9FBB-E86C-4C8A-B6C9-799C6F3466BF} = {3600FDC0-65F8-44CA-BD19-662BB89385C5}
+		{E41D22CD-445A-4520-BAA3-50257757FEC2} = {3600FDC0-65F8-44CA-BD19-662BB89385C5}
+		{182F7BEE-8607-43CD-ABA0-B5AFD155E40C} = {9D0D017F-22D5-4371-BCDA-E3CEF8D2F270}
+		{6CAAEB24-9DB9-4F85-9F35-21BC2E0CD684} = {9D0D017F-22D5-4371-BCDA-E3CEF8D2F270}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {500BBEA2-D03B-4004-8D6D-DED2893A23C8}
+	EndGlobalSection
+EndGlobal
